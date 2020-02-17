@@ -1,0 +1,148 @@
+/* I changed the whole body of the page  */
+body {
+  background-color: #f4f4f4f4;
+}
+
+
+.text-center h1 {
+  font-size: 100px;
+  /* color:  rgb(250, 102, 48); */
+  color: #e84118;
+
+}
+
+.text-center p {
+  font-size: 20px;
+  font-weight: bold;
+  color: #353b48;
+  
+  
+  /* color:  rgb(250, 102, 48); */
+
+}
+
+/*  I changed the spacing around the carousel.  */
+.slide {
+  margin-left: 55px;
+  margin-right: 55px;
+
+}
+
+/* I changed the color of the filter button */
+
+.filter-grid {
+  background-color: #f4f4f4f4;
+}
+
+/* .contact-form {
+  text-align: center;
+} */
+
+.navbar-inverse {
+  /* background-color: rgb(250, 102, 48); */
+  background-color: #e84118;
+  border-color: #e84118;
+}
+
+.navbar-inverse .navbar-brand {
+  color: #fff;
+  cursor: default;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+  color: #fff;
+}
+.navbar-inverse .navbar-nav > li > a:hover,
+.navbar-inverse .navbar-nav > li > a:focus {
+  color: #fff;
+  background-color: rgb(248, 75, 12);
+}
+
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus {
+  color: #fff;
+  background-color: rgb(250, 102, 48);
+
+}
+
+
+.jumbotron {
+  background-color: transparent;
+  margin-top: 20px;
+
+}
+
+.dropdown .btn {
+  background-color: #e84118;
+  color: #fff;
+}
+
+/* I changed the about us page */
+.aboutus p {
+  text-align: center;
+  font-size: 15px;
+}
+
+/* #aboutus-header {
+  text-align: center;
+} */
+
+.faq-header {
+  background-color: #e84118;
+  width: auto;
+  border-radius: 3px;
+  color: white;
+  text-align: center;
+}
+
+.faqs {
+  text-align: center;
+}
+
+.contact-header {
+  background-color: #e84118;
+  border-radius: 3px;
+  color: white;
+  text-align: center;
+  border-width: 0;
+}
+/* 
+.contact-form .row {
+  margin-left: 170px;
+  
+  
+} */
+
+/* I assigned the color to the button */
+.btn-primary {
+  background-color: #e84118;
+  border-color: transparent;
+}
+
+/*  I have changed Footer styles */
+
+footer {
+  /* border-top: 2px solid rgb(250, 102, 48); */
+  background-color: #222;
+  
+}
+
+footer h6 {
+  font-size: 15px;
+  color: grey;
+}
+
+.page-footer {
+  font-size: 15px;
+  color: grey;
+}
+
+.page-footer p {
+  text-align: center;
+  font-size: 15px;
+}
+
+.page-footer .row {
+  margin-top: 20px;
+}
